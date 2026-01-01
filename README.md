@@ -1,5 +1,5 @@
 # kahoot-join-bot
-Bot to join Kahoot
+Bot to join Kahoot (working in 2026)
 
 ## Preview
 <img width="1103" height="733" alt="image" src="https://github.com/user-attachments/assets/23f75cac-47d0-40d5-be65-345636b9c113" />
