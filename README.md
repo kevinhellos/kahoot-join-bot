@@ -11,3 +11,7 @@ Do not use this software to:
 - Disrupt live Kahoot games, classrooms, or events
 - Harass, troll, or interfere with other users
 - Perform malicious actions without the explicit permission of the game host or participants
+
+## Future enhancement
+- Add support for proxy
+- Implement a request based approach instead of spinning up every browser instance per bot
