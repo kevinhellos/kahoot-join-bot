@@ -122,6 +122,7 @@ async function runBot(taskNumber="") {
     }
 
     // log(taskNumber, "Bot Stopped.");
+    // Can't close browser instance here as if inactivity is detected, bot will diconnect from room
     // await browser.close();
 }
 
