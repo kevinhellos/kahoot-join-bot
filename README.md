@@ -14,5 +14,6 @@ Do not use this software to:
 
 ## Future enhancement
 - Add support for proxy
+- Add proxy rotation
 - Implement a request based approach instead of spinning up every browser instance per bot
 - Keep spawning bots after few seconds
